@@ -1,0 +1,4 @@
+# Ignore data folder
+uploadedFiles/**
+node_modules
+keyframes/**
